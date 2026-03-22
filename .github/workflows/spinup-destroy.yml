@@ -13,7 +13,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: AgustinDiaz-Nubiral-ttt-app
-  AZURE_TAGS: 'OWNER="Agustin Diaz" CREATEDBY="GitHubActions" PROJECT="ImplementacionCD" TEAM="POD2" DEADLINE="2026-03-31"'
+  AZURE_TAGS: 'OWNER="Agustin Diaz" CREATEDBY="GitHubActions" PROJECT="ImplementacionCD" TEAM="POD 2" DEADLINE="2026-03-31"'
 
 jobs:
   setup-up-azure-resources:
